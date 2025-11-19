@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-public class Waypoints : MonoBehaviour
+public class Waypoint : MonoBehaviour
 {
-    public Transform[] WayPoints;
+    public Transform[] waypoints;
 }
